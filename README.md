@@ -28,4 +28,3 @@ All scans are documented with a **defensive security mindset**, focusing on visi
 
 ---
 
-## Repository Structure
