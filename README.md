@@ -7,7 +7,7 @@ All scans are documented with a **defensive security mindset**, focusing on visi
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Perform network and host discovery
 - Identify exposed TCP and UDP services
@@ -17,15 +17,15 @@ All scans are documented with a **defensive security mindset**, focusing on visi
 
 ---
 
-## 🧪 Lab Environment
+## Lab Environment
 
 - Authorized internal network
 - Private IP address space (RFC1918)
 - Nmap version: 7.9x
 - Defensive, SOC-focused use cases only
 
-> ⚠️ No unauthorized or illegal scanning was performed.
+> No unauthorized or illegal scanning was performed.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
