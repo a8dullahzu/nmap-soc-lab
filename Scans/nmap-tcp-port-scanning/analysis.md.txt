@@ -1,0 +1,11 @@
+## Analysis
+
+- DNS and HTTP services indicate the host is acting as a network gateway or appliance
+- Filtered SSH and Telnet ports suggest firewall rules are blocking remote access
+- Telnet not being open reduces risk associated with insecure protocols
+- Closed ports minimize the attack surface of the host
+
+## Next Steps
+- Perform service/version detection on open ports
+- Review firewall rules for management services
+- Monitor DNS and HTTP services for anomalous activity

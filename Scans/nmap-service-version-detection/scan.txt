@@ -1,0 +1,26 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-14 17:00 +0500
+Nmap scan report for 192.168.100.1
+Host is up (0.016s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE    SERVICE   VERSION
+22/tcp   filtered ssh
+23/tcp   filtered telnet
+53/tcp   open     domain    (generic dns response: no error)
+80/tcp   open     ssl/http
+8022/tcp filtered oa-system
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port53-TCP:V=7.98%I=7%D=1/14%Time=6967856D%P=i686-pc-windows-windows%r(
+SF:DNS-SD-TCP,10F,"\x01\r\0\0\x80\x80\0\x01\0\0\0\r\0\0\t_services\x07_dns
+SF:-sd\x04_udp\x05local\0\0\x0c\0\x01\0\0\x02\0\x01\0\x01Q\x80\0\x14\x01k\
+SF:x0croot-servers\x03net\0\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01j\xc0;\x
+SF:c0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01d\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x8
+SF:0\0\x04\x01c\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01g\xc0;\xc0\.\0\
+SF:x02\0\x01\0\x01Q\x80\0\x04\x01b\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04
+SF:\x01h\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01f\xc0;\xc0\.\0\x02\0\x
+SF:01\0\x01Q\x80\0\x04\x01i\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01e\x
+SF:c0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01m\xc0;\xc0\.\0\x02\0\x01\0\x0
+SF:1Q\x80\0\x04\x01l\xc0;\xc0\.\0\x02\0\x01\0\x01Q\x80\0\x04\x01a\xc0;");
+MAC Address: 98:1A:35:C5:3F:5D (Huawei Technologies)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 38.07 seconds

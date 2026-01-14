@@ -1,0 +1,31 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-14 16:29 +0500
+Nmap scan report for 192.168.100.1
+Host is up (0.011s latency).
+MAC Address: 98:1A:35:C5:3F:5D (Huawei Technologies)
+Nmap scan report for 192.168.100.5
+Host is up (0.099s latency).
+MAC Address: 56:A2:C8:7F:36:B2 (Unknown)
+Nmap scan report for 192.168.100.8
+Host is up (0.0040s latency).
+MAC Address: 18:5E:0B:3C:2D:F6 (zte)
+Nmap scan report for 192.168.100.11
+Host is up (0.11s latency).
+MAC Address: 02:64:25:92:65:C2 (Unknown)
+Nmap scan report for 192.168.100.14
+Host is up (0.11s latency).
+MAC Address: 6E:95:4D:13:DD:44 (Unknown)
+Nmap scan report for 192.168.100.16
+Host is up (0.10s latency).
+MAC Address: C2:E0:33:83:53:96 (Unknown)
+Nmap scan report for 192.168.100.75
+Host is up (0.056s latency).
+MAC Address: 56:E3:7E:6C:1B:2A (Unknown)
+Nmap scan report for 192.168.100.111
+Host is up (0.046s latency).
+MAC Address: 8A:AD:EC:A1:E0:A4 (Unknown)
+Nmap scan report for 192.168.100.158
+Host is up (0.089s latency).
+MAC Address: F2:25:D9:BC:BF:F7 (Unknown)
+Nmap scan report for 192.168.100.131
+Host is up.
+Nmap done: 256 IP addresses (10 hosts up) scanned in 10.85 seconds
